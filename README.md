@@ -2,7 +2,7 @@
 
 **You’ve come a long way, and it's time to show it.**
 
-This project should be your magnum opus of WDI. If you put in the effort, it'll
+This project should be your magnum opus of SEIR. If you put in the effort, it'll
 be the one you want to show off most prominently in your portfolio.
 
 **You get to call the shots and invent your own idea**, choosing tools that are
@@ -16,6 +16,8 @@ make sure it's **something that'll be impressive visually**. Sometimes people do
 judge a book by its cover – or an app by its design. Reach out to your instructors 
 to discuss your project idea ASAP!
 
+For this project, you can choose between working individually or working with a group
+of your choice. 
 
 ## Requirements
 
@@ -38,8 +40,8 @@ You must turn in something before presentations begin. However, you are welcome
 
 ## Presentation
 
-You will present your final project in a science fair format on the last day of
-Project Week. Stay tuned for a schedule!
+You will present your final project on the last day of
+Project Week. Refer to the course schedule for the final presentation schedule.
 
 ## Necessary Deliverables
 
@@ -47,15 +49,17 @@ Your submission must include **all** of the following:
 
 ### Project Idea and Initial Planning
 
-By the end of Day 1 of Project Week, you need to submit:
+***You must turn in a project proposal to your squad lead by 12pm ET March 5, 2020.***
+
+You need to submit:
 
 1. Your project idea (a brief 2-3 sentence description of your app)
 2. A list of your models and their properties
+3. Your group members (along with the name of the project manager), 
+if you decide to be part of a group
 
 These and any other planning assets (wireframes, user stories, etc) should go
-inside a `planning/` directory inside one of your project repositories. Planning
-and Process is one category by which we will be [evaluating your
-project](evaluation.md).
+inside a `planning/` directory inside one of your project repositories. 
 
 ### Final Project
 
@@ -82,7 +86,9 @@ The repository/repositories for your final project should include:
 
 ## GitHub Issues
 
-You get 2 tokens to ask questions to any instructor this week. Use them strategically -- only when you really, really need help. After this week 
+If you are working individually, you get 2 tokens to ask questions whereas each group 
+gets 4 tokens in total per group to ask questions this week during office hours 
+(check the course schedule). Use them strategically -- only when you really, really need help. 
 
 ## Potential Project Ideas
 
