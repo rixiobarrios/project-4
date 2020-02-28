@@ -143,12 +143,6 @@ world! - https://gallery.generalassemb.ly/WDI
 
 * **[HackDesign](https://hackdesign.org/lessons)** _(beginner's reference for
   thinking like a designer)_
-* **[Visual Design
-  Hacking](https://generalassemb.ly/online/videos/visual-design-hacking)** _(a
-  great tips-and-tricks focused video from Front Row)_
-* **[Web Design For
-  Non-designers](https://generalassemb.ly/online/videos/web-design-for-non-designers)**
-  _(another great design-related course for all the nerds out there)_
 
 ### Pre-employment checklist
 
